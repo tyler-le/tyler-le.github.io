@@ -40,7 +40,8 @@ This best describes me because I never start a project late. I'm always eager to
 
 <hr>
 
-####Favorite Campus Spots
+#### Favorite Campus Spots
+
 ![Geisel Library](images/geisel.jpeg)
 
 1. Geisel Library
