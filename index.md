@@ -5,13 +5,12 @@
 
 # Tyler Le
 
-#### University of California, San Diego
-
-#### Computer Science '24
+University of California, San Diego
+Computer Science '24
 
 <hr>
 
-**About Me**
+#### About Me
 
 `print("Hello, World!")`
 
@@ -23,7 +22,7 @@ Feel free to visit my [LinkedIn](https://www.linkedin.com/in/le-tyler/). and my 
 
 <hr>
 
-**Classes I've Taken**
+#### Classes I've Taken
 
 - CSE 12
 - CSE 21
@@ -31,7 +30,7 @@ Feel free to visit my [LinkedIn](https://www.linkedin.com/in/le-tyler/). and my 
 - CSE 105
 - COGS 108
 
-**Favorite Quote**
+#### Favorite Quote
 
 One of my favorite quotes that I live by:
 
@@ -41,7 +40,7 @@ This best describes me because I never start a project late. I'm always eager to
 
 <hr>
 
-**Favorite Campus Spots**
+####Favorite Campus Spots
 ![Geisel Library](images/geisel.jpeg)
 
 1. Geisel Library
@@ -50,7 +49,7 @@ This best describes me because I never start a project late. I'm always eager to
 
 <hr>
 
-**My Goals For This Quarter**
+#### My Goals For This Quarter
 
 - [ ] Get Straight A's
 - [ ] Have Good Social/Academic Balance
